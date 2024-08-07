@@ -1,1 +1,9 @@
+h1, h2 {
+  font-family: Garamond, serif;
+}
 
+h1 {
+  color: #198f89;
+  text-align: center;
+  color: #fff; 
+}
