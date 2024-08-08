@@ -1,0 +1,65 @@
+* {
+    font-family: Arial, sans serif;
+    font-size: 16px;
+}
+
+/*Background*/
+
+.background {
+    background-color: rgba(255, 243, 194, 0.3);
+    height: 550px;
+    width: 800px;
+    margin: 0 auto;
+}
+/*Header*/
+
+header h1 {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.title {
+    font-size: 40px;
+    color: rgb(43, 69, 61);
+}
+
+header p {
+    text-align: center;
+}
+
+/*Table*/
+
+table {
+    border: 2px solid rgb(43, 69, 61);
+    margin: 0 auto;
+    width: 750px;
+    top: 50px;
+}
+
+thead {
+    background-color: rgba(92, 147, 131);
+    padding: 2px 0;
+    letter-spacing: 1px;
+}
+
+.head {
+    color: rgb(245, 255, 240);
+    font-size: 18px;
+}
+td {
+    border-top: 1px solid rgb(43, 69, 61);
+}
+
+.code {
+    font-family: Courier, monospace, sans serif;
+    background-color: rgb(219, 255, 199);
+}
+
+/* Footer*/
+
+.reference {
+    font-size: 10px;
+    font-style: italic;
+    padding-left: 25px;
+}
