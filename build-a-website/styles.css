@@ -1,0 +1,156 @@
+/*General rules*/
+html {
+    font-family: Dosis;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: italiana;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 20px;
+    font-family: italiana;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 16px;
+}
+
+.container {
+    border: 2px solid #433B36;
+    width: 80%;
+    margin: 10px auto;
+    padding-left: 20px;
+}
+
+/*Banner*/
+.banner {
+    background-color: #466E6B;
+    border: 0px;
+    width: 80%;
+    padding: 12px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+h1.main-title{
+    text-align: center;
+    padding: 10px 5px;
+    top: 100px;
+    position: relative;
+    color: #fff;
+    border: 2px solid #fff;
+    width: 35%;
+    margin: 50px auto;
+}
+
+h2.subheading {
+    text-align: center;
+    position: relative;
+    top: 80px;
+    text-decoration: none;
+    color: #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    width: 90px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+/*Section Colors*/
+.color-muster {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    min-height: 100px;
+}
+
+.color-name {
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+.grapefruit {
+    background-color: #ED6621;
+}
+
+
+.oldfashion-green {
+    background-color: #44ADA6;
+}
+
+
+.aquatic-green {
+    background-color: #21EDE0;
+}
+
+
+.terracota {
+    background-color: #986348;
+}
+
+.exotic-plant {
+    background-color: #466E6B;
+}
+
+.moist-earth {
+    background-color: #433B36;
+}
+/*Section Fonts*/
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.italiana {
+    font-family: italiana;
+}
+
+.dosis {
+    font-family: dosis;
+}
+
+.josefin-sans {
+    font-family: "Josefin Sans";
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/*Section Text Styles*/
+
+li {
+    font-size: 16px;
+}
+
+/*Footer*/
+
+.footer-container {
+    background-color: #ED6621;
+    position: absolute;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.ftr-text {
+    color: #fff;
+    font-family: Dosis;
+    padding: 40px 0px 20px;
+    text-align: center;
+}
